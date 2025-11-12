@@ -1,4 +1,10 @@
-# College Internship Tracker using MySQL-Streamlit_DBMS-Mini-Project
+# Title: College Internship Tracker using MySQL-Streamlit DBMS-Mini-Project
+
+### **TEAM MEMBERS** 
+- Srinidhi S (PES2UG23AM103)
+- Sriya Panda (PES2UG23AM104)
+
+### **Description**
 The College Internship Tracker is a web-based application developed using Streamlit and MySQL to simplify internship management for students and faculty. 
 It provides a unified platform for students, faculty and admin.
 
